@@ -1,6 +1,4 @@
-Bien sûr ! Voici le `README.md` mis à jour sans la section **Exemples d'Utilisation** :
 
-```markdown
 # uFiles 📁
 
 **uFiles** est un projet web moderne développé avec Next.js, utilisant `next-auth` pour l'authentification et `framer-motion` pour des animations fluides. Ce projet est conçu pour gérer et suivre les documents administratifs de manière efficace.
